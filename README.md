@@ -98,9 +98,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [123marve](https://Insure-Landing-Page.123marve.repl.co)
 - Frontend Mentor - [@123marve](https://www.frontendmentor.io/profile/@123marve)
-- Twitter - [@jesse marvelous](https://www.twitter.com/@jesse marvelous)
+- Twitter - [@jesse marvelous](https://www.twitter.com/@jessemarvelous1)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
